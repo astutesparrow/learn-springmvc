@@ -1,4 +1,4 @@
-package com.github.astutesparrow;
+package com.github.astutesparrow.web.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
